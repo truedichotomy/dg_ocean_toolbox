@@ -1,6 +1,7 @@
 % this script loads SST data and calculate composites from NASA's PO DAAC ghrsst server using MUR SST product.
 % Example: https://podaac-opendap.jpl.nasa.gov:443/opendap/allData/ghrsst/data/GDS2/L4/GLOB/JPL/MUR/v4.1/2018/148/20180528090000-JPL-L4_GHRSST-SSTfnd-MUR-GLOB-v02.0-fv04.1.nc
 % 4/16/2019: gong@vims.edu
+% 4/25/2019: gong@vims.edu, initial load on GitHub
 
 initflag = 1
 loadflag = 1
